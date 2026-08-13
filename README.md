@@ -136,7 +136,7 @@ dataset/
 
 &#x20;       └── 1\_fake/
 
-The pre-processed dataset used for classifier training and testing can be accessed at <>
+The pre-processed dataset used for classifier training and testing can be accessed at [https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110020_iitgn_ac_in/IgB5TXxuOmfbSqlgfJWMqhU-AaTnHnnsiGW1nxahNX5aC8g?e=ke5ZoZ](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110020_iitgn_ac_in/IgB5TXxuOmfbSqlgfJWMqhU-AaTnHnnsiGW1nxahNX5aC8g?e=ke5ZoZ)
 
 
 
@@ -225,6 +225,8 @@ Model:
 
 
 The classifier uses the CLIP ViT-L/14 image encoder with the official OpenAI pretrained weights through OpenCLIP.
+
+The trained model .pt files for nanoparticle and biological datasets are available at [https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110020_iitgn_ac_in/IgCL_3LTGlYVR7z5PU9KvWAmAUsbogoinH3rLTSxHVtOPLk?e=t9X02V](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110020_iitgn_ac_in/IgCL_3LTGlYVR7z5PU9KvWAmAUsbogoinH3rLTSxHVtOPLk?e=t9X02V)
 
 
 
